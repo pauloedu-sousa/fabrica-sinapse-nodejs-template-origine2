@@ -6,5 +6,10 @@ if(numero == 2 && numero == 2 &&numero == 2 &&numero == 2 &&numero == 2 &&numero
   console.log('Numero é igual a 2');
 
 }
+const variavelNumerica = 2;
+     
+     if (variavelNumerica == true && variavelNumerica == true && variavelNumerica == true && variavelNumerica == true && variavelNumerica == true && variavelNumerica == true && variavelNumerica == true && variavelNumerica == true) {
+         console.info('data');
+     }
 
 

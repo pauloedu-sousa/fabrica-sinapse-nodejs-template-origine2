@@ -1,15 +1,15 @@
 {
-  "name": "fabrica-sinapse-nodejs-template",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
-  "devDependencies": {
-    "prettier": "npm:@btmills/prettier@^3.2.5"
-  }
+    "name": "fabrica-sinapse-nodejs-template-origine2",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "devDependencies": {
+        "prettier": "npm:@btmills/prettier@^3.2.5"
+    }
 }
