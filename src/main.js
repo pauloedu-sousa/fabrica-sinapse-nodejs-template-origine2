@@ -1,5 +1,6 @@
- const numero = 2;
-console.info("Numero: " + numero)
+                const numero = 2
+              console.info("Numero: " + numero)
 
+              if(numero == 2 && numero == 2 &&numero == 2 &&numero == 2 &&numero == 2 &&numero == 2 &&numero == 2 &&numero == 2 &&numero == 2 &&)
 
 
